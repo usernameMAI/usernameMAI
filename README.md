@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Find me on:
 
-<p align="center">
-<a href="https://vk.com/dimon1232000">
-  <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="vk"/>
-</a>
-
   <a href="https://t.me/inommcl1">
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
