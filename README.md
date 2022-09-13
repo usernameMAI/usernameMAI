@@ -20,8 +20,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
 </p>
-
-  
-**Languages and Tools:**  
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
